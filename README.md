@@ -6,6 +6,12 @@
 
 MocheanToken is a community crypto asset
 
+what is MocheanToken and why did I create it?
+
+## a brief description of MocheanToken
+
+MocheanToken is one of the millions of crypto assets intended for the community/holders
+
 Start with MocheanToken Choose your wallet, Buy MocheanToken
 
 
